@@ -1,0 +1,46 @@
+{
+  "sentiment": "positive",
+  "confidenceScores": {
+    "positive": 0.96,
+    "neutral": 0.03,
+    "negative": 0.01
+  },
+  "sentences": [
+    {
+      "text": "A viagem que fizemos a Paris foi maravilhosa, eu amei aquela cidade.",
+      "sentiment": "positive",
+      "confidenceScores": {
+        "positive": 0.95,
+        "neutral": 0.04,
+        "negative": 0.01
+      }
+    },
+    {
+      "text": "Que arquitetura! E só mesmo? A culinária!",
+      "sentiment": "positive",
+      "confidenceScores": {
+        "positive": 0.93,
+        "neutral": 0.06,
+        "negative": 0.01
+      }
+    },
+    {
+      "text": "A culinária de Paris é maravilhosa.",
+      "sentiment": "positive",
+      "confidenceScores": {
+        "positive": 0.97,
+        "neutral": 0.02,
+        "negative": 0.01
+      }
+    },
+    {
+      "text": "Quero voltar mais vezes a Paris.",
+      "sentiment": "positive",
+      "confidenceScores": {
+        "positive": 0.96,
+        "neutral": 0.03,
+        "negative": 0.01
+      }
+    }
+  ]
+}
