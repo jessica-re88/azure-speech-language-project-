@@ -1,5 +1,6 @@
 # azure-speech-language-project-
-Este projeto demonstra o uso das ferramentas Azure Speech Studio e Language Studio para transcrever um áudio e analisar o sentimento do texto resultante.
+Este projeto demonstra o uso das ferramentas Azure Speech Studio e Language Studio para transcrever um áudio e analisar o sentimento do texto resultante. Este recurso é muito útil para a inteligência de negócios, pois podemos tomar decisões mais acertivas, pelo fato de conseguir ter relatórios de uma forma mais rápida e acertiva. 
+Como por exemplo, quando as pessoas fazem avaliações de um produto ou de uma loja, ao usarmos o Azure podemos ter em mãos as ferramentas que nos darão condições de melhorar os ponteos que procesam ser melhorados e assim alavancar a empresa.
 
 
 ## 🎯 Objetivos
